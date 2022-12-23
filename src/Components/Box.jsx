@@ -2,7 +2,6 @@ import React from 'react'
 import styled from "styled-components";
 import { useState } from 'react';
 import axios from 'axios';
-import { Link } from 'react-router-dom';
 const Button1 = styled.button`
   width: 40%;
   border: none;
